@@ -1,0 +1,26 @@
+{
+  "title": "asdasd",
+  "services": "Appliance Repair",
+  "LLMJson": "asdasd from Texas is a Appliance Repair Business.\r\nGive me a catchy tagline and their business description in plain text without citation\r\nGive me -only the options you think are applicable for __BUSINESS_NAME__.\r\n\r\nCommercial Appliances Type:\r\n Exhaust Hoods\r\n Fryers\r\n Grills\r\n Specialty Cooking Equipment\r\n Steam Cooking Equipment\r\n Toasters\r\n Walk-In Coolers\r\n Walk-In Freezers\r\n\r\nHome Appliance Type:\r\n Air conditioning\r\n Dishwashers\r\n Kitchen stoves\r\n Microwave oven\r\n Refrigerator\r\n Washers & Dryers\r\n\r\nAppliance Brand:\r\n Bosch\r\n CAFE\r\n Dacor\r\n Fisher & Paykel\r\n Frigidaire\r\n GE Appliances\r\n KitchenAid\r\n LG\r\n Maytag\r\n Miele\r\n Samsung\r\n Subzero\r\n Thermador\r\n Viking\r\n Whirlpool\r\n Wolf\r\n\r\nWhat would be their price ranges:\r\n $ or $$ or $$$\r\n\r\nTags:\r\n Accept Cashapp\r\n Accept PayPal\r\n Accept Venmo\r\n Accept Zelle\r\n Accepts Credit Cards\r\n Accepts Cryptocurrency\r\n Coupons\r\n Dogs Allowed\r\n Handicap Friendly\r\n Offers Military Discount\r\n Open to All\r\n Parking available\r\n Plastic-Free Packaging\r\n Private Lot Parking\r\n Smoking Allowed\r\n WiFi\r\n\r\nRespond in JSON format like this:\r\n{\r\n        \"tagline\": \"string\",\r\n        \"description\": \"string\",\r\n        \"Commercial Appliances Type\": [],\r\n\"Home Appliance Type\": [],\r\n\"Appliance Brand\": [],\r\n        \"priceRange\": \"\",\r\n        \"tags\": []\r\n        }\r\n",
+  "youtubeVideo": "asdasd",
+  "youtubeChannel": "asdasdasd",
+  "email": "asdasd@gmail.com",
+  "phone": "asdjksdbkjas",
+  "website": "http://localhost:5000/",
+  "social": "",
+  "workHours": "asdasd",
+  "location": "asdasd",
+  "facebook": "asdasd",
+  "instragram": "asdasda",
+  "linkedin": "asdasfasf",
+  "x": "asdasdasd",
+  "logo": "undefined",
+  "cover": "undefined",
+  "gallery": [
+    "gallery-1759352256915-969646209.jpg",
+    "gallery-1759352256917-296817813.png",
+    "gallery-1759352256924-291661021.png",
+    "gallery-1759352256944-660494525.jpg",
+    "gallery-1759352256944-761604801.jpg"
+  ]
+}

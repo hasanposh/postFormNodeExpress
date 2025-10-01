@@ -1,0 +1,49 @@
+{
+  "title": "asdasd",
+  "services": [
+    "Appliance Repair"
+  ],
+  "LLMJson": "asdasd from Texas is a Appliance Repair Business.\nGive me a catchy tagline and their business description in plain text without citation\nGive me -only the options you think are applicable for __BUSINESS_NAME__.\n\nCommercial Appliances Type:\n Exhaust Hoods\n Fryers\n Grills\n Specialty Cooking Equipment\n Steam Cooking Equipment\n Toasters\n Walk-In Coolers\n Walk-In Freezers\n\nHome Appliance Type:\n Air conditioning\n Dishwashers\n Kitchen stoves\n Microwave oven\n Refrigerator\n Washers & Dryers\n\nAppliance Brand:\n Bosch\n CAFE\n Dacor\n Fisher & Paykel\n Frigidaire\n GE Appliances\n KitchenAid\n LG\n Maytag\n Miele\n Samsung\n Subzero\n Thermador\n Viking\n Whirlpool\n Wolf\n\nWhat would be their price ranges:\n $ or $$ or $$$\n\nTags:\n Accept Cashapp\n Accept PayPal\n Accept Venmo\n Accept Zelle\n Accepts Credit Cards\n Accepts Cryptocurrency\n Coupons\n Dogs Allowed\n Handicap Friendly\n Offers Military Discount\n Open to All\n Parking available\n Plastic-Free Packaging\n Private Lot Parking\n Smoking Allowed\n WiFi\n\nRespond in JSON format like this:\n{\n        \"tagline\": \"string\",\n        \"description\": \"string\",\n        \"Commercial Appliances Type\": [],\n\"Home Appliance Type\": [],\n\"Appliance Brand\": [],\n        \"priceRange\": \"\",\n        \"tags\": []\n        }\n",
+  "logo": {
+    "path": "./hasanImg.jpg",
+    "relativePath": "./hasanImg.jpg"
+  },
+  "cover": {
+    "path": "./Gemini_Generated_Image_bh5by5bh5by5bh5b.png",
+    "relativePath": "./Gemini_Generated_Image_bh5by5bh5by5bh5b.png"
+  },
+  "gallery": [
+    {
+      "path": "./hasanImg.jpg",
+      "relativePath": "./hasanImg.jpg"
+    },
+    {
+      "path": "./Gemini_Generated_Image_bh5by5bh5by5bh5b.png",
+      "relativePath": "./Gemini_Generated_Image_bh5by5bh5by5bh5b.png"
+    },
+    {
+      "path": "./ChatGPT Image Sep 28, 2025, 04_01_33 AM.png",
+      "relativePath": "./ChatGPT Image Sep 28, 2025, 04_01_33 AM.png"
+    },
+    {
+      "path": "./confused-robot-pondering-stockcake.jpg",
+      "relativePath": "./confused-robot-pondering-stockcake.jpg"
+    },
+    {
+      "path": "./StockCake-Confused Robot Ponders_1759009661.jpg",
+      "relativePath": "./StockCake-Confused Robot Ponders_1759009661.jpg"
+    }
+  ],
+  "youtubeVideo": "asdasd",
+  "youtubeChannel": "asdasdasd",
+  "email": "asdasd@gmail.com",
+  "phone": "asdjksdbkjas",
+  "website": "http://localhost:5000/",
+  "social": "",
+  "workHours": "asdasd",
+  "location": "asdasd",
+  "facebook": "asdasd",
+  "instragram": "asdasda",
+  "linkedin": "asdasfasf",
+  "x": "asdasdasd"
+}
